@@ -8,5 +8,6 @@ public class driver {
 		System.out.println("Goodbye, cruel world.");
 		System.out.println("Hi Alice.");
 		System.out.println("Hi Bob");
+		System.out.println("Hi Charlie");
 	}
 }
