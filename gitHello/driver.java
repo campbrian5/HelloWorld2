@@ -13,6 +13,7 @@ public class driver {
 		System.out.println("Hi Denise");
 		
 		// print current date here
+		System.out.print("current date: ");
 		System.out.println(java.time.LocalDate.now());
 	}
 }
