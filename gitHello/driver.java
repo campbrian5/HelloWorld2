@@ -15,5 +15,8 @@ public class driver {
 		// print current date here
 		System.out.print("current date: ");
 		System.out.println(java.time.LocalDate.now());
+		
+		// print current free memory here
+		System.out.print("current free memory: ");
 	}
 }
