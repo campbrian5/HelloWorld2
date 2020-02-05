@@ -10,5 +10,7 @@ public class driver {
 		System.out.println("Hi Bob");
 		System.out.println("Hi Charlie");
 		System.out.println("Hi Denise");
+		
+		// print current date here
 	}
 }
