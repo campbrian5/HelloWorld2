@@ -18,5 +18,6 @@ public class driver {
 		
 		// print current free memory here
 		System.out.print("current free memory: ");
+		System.out.println(Runtime.getRuntime().freeMemory());
 	}
 }
