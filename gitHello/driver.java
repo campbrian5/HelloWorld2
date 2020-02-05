@@ -17,7 +17,7 @@ public class driver {
 		System.out.println(java.time.LocalDate.now());
 		
 		// print current free memory here
-		System.out.print("current free memory: ");
+		System.out.print("current free memory (bytes): ");
 		System.out.println(Runtime.getRuntime().freeMemory());
 	}
 }
