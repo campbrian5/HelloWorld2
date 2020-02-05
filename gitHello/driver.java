@@ -1,5 +1,6 @@
 package gitHello;
 
+
 public class driver {
 
 	public static void main (String args[]) {
@@ -11,6 +12,8 @@ public class driver {
 		System.out.println("Hi Charlie");
 		System.out.println("Hi Denise");
 		
-		// Print current date goes here
+		// print current date here
+		System.out.print("current date: ");
+		System.out.println(java.time.LocalDate.now());
 	}
 }
